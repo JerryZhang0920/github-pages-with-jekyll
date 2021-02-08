@@ -1,5 +1,5 @@
 ---
-title: My first GitHub Site blog
+title: "My first GitHub Site blog"
 date: 2020-02-09
 ---
 
